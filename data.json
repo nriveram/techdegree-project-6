@@ -2,48 +2,48 @@
     "projects": [
       {
         "id": 1,
-        "project_name": "project 1", 
-        "description": "random", 
-        "technologies" : [], 
-        "live_link": "",
-        "github_link": "", 
-        "image_urls": []
+        "project_name": "A Random Quote Generator", 
+        "description": "This program displays a randomly selected quote each time the user clicks a button.", 
+        "technologies" : ["HTML", "CSS", "JavaScript"], 
+        "live_link": "https://nriveram.github.io/techdegree-project-1/",
+        "github_link": "https://github.com/nriveram/techdegree-project-1", 
+        "image_urls": ["./images/project1/random_quote_1.jpeg", "./images/project1/random_quote_2.jpeg", "./images/project1/random_quote_3.jpeg"]
       },
       {
         "id": 2,
-        "project_name": "project 2", 
-        "description": "random",
-        "technologies": [],
-        "live_link": "", 
-        "github_link": "",
-        "image_urls": []
+        "project_name": "Data Pagination and Filtering", 
+        "description": "This program displays student information of 42 students, including name, email, and picture. It uses navigation buttons to display different pages of students. This program also contains a search bar to help find easiers quicker.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://nriveram.github.io/techdegree-project-2/", 
+        "github_link": "https://github.com/nriveram/techdegree-project-2",
+        "image_urls": ["./images/project2/data_pag_1.jpeg", "./images/project2/data_pag_2.jpeg", "./images/project2/data_pag_3.jpeg"]
       }, 
       {
         "id": 3,
-        "project_name": "project 3", 
-        "description": "random", 
-        "technologies": [], 
-        "live_link": "",
-        "github_link": "", 
-        "image_urls": []
+        "project_name": "Interactive Form", 
+        "description": "This program adds form validation and interactivity to a fictional Full Stack conference.", 
+        "technologies": ["HTML", "CSS", "JavaScript"], 
+        "live_link": "https://nriveram.github.io/techdegree-project-3/",
+        "github_link": "https://github.com/nriveram/techdegree-project-3", 
+        "image_urls": ["./images/project3/inter_form_1.jpeg", "./images/project3/inter_form_2.jpeg", "./images/project3/inter_form_3.jpeg"]
       }, 
       {
         "id": 4,
-        "project_name": "project 4", 
-        "description": "random", 
-        "technologies": [], 
-        "live_link": "",
-        "github_link": "", 
-        "image_urls": []
+        "project_name": "OOP Game Show App", 
+        "description": "This project utilizes JavaScript and object-oriented programming (OOP) to develop a browser-based guessing game. Users have 5 lives to guess the hidden phrase by using the onscreen keyboard. If user looses, they can restart the game and try again.", 
+        "technologies": ["HTML", "CSS", "JavaScript"], 
+        "live_link": "https://nriveram.github.io/techdegree-project-4/",
+        "github_link": "https://github.com/nriveram/techdegree-project-4", 
+        "image_urls": ["./images/project4/oop_game_1.jpeg", "./images/project4/oop_game_2.jpeg", "./images/project4/oop_game_3.jpeg"]
       }, 
       {
         "id": 5,
-        "project_name": "project 5", 
-        "description": "random", 
-        "technologies": [], 
-        "live_link": "",
-        "github_link": "", 
-        "image_urls": []
+        "project_name": "Public API Requests", 
+        "description": "This project uses public APIs to build a directory for finding friends. A JSON obkect is requested from the API and parsed to build a gallery that contains images, full names, emails, and locations for each person. When a user clicks on a person, a modal with more information pops up. This allows users to learn more about people from the directory.", 
+        "technologies": ["HTML", "CSS", "JavaScript"], 
+        "live_link": "https://nriveram.github.io/techdegree-project-5/",
+        "github_link": "https://github.com/nriveram/techdegree-project-5", 
+        "image_urls": ["./images/project5/public_api_1.jpeg", "./images/project5/public_api_2.jpeg", "./images/project5/public_api_3.jpeg"]
       }
     ]
   }
