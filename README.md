@@ -1,2 +1,2 @@
 # techdegree-project-6
- Portfolio
+Naomi's Portfolio
