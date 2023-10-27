@@ -12,7 +12,7 @@
       {
         "id": 2,
         "project_name": "Data Pagination and Filtering", 
-        "description": "This program displays student information of 42 students, including name, email, and picture. It uses navigation buttons to display different pages of students. This program also contains a search bar to help find easiers quicker.",
+        "description": "This program displays student information of 42 students, including name, email, and picture. It uses navigation buttons to display different pages of students. This program also contains a search bar to help find users quicker.",
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://nriveram.github.io/techdegree-project-2/", 
         "github_link": "https://github.com/nriveram/techdegree-project-2",
@@ -39,7 +39,7 @@
       {
         "id": 5,
         "project_name": "Public API Requests", 
-        "description": "This project uses public APIs to build a directory for finding friends. A JSON obkect is requested from the API and parsed to build a gallery that contains images, full names, emails, and locations for each person. When a user clicks on a person, a modal with more information pops up. This allows users to learn more about people from the directory.", 
+        "description": "This project uses public APIs to build a directory for finding friends. A JSON object is requested from the API and parsed to build a gallery that contains images, full names, emails, and locations for each person. When a user clicks on a person, a modal with more information pops up. This allows users to learn more about people from the directory.", 
         "technologies": ["HTML", "CSS", "JavaScript"], 
         "live_link": "https://nriveram.github.io/techdegree-project-5/",
         "github_link": "https://github.com/nriveram/techdegree-project-5", 
