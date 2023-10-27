@@ -20,7 +20,10 @@ router.get('/projects/:id', function(req, res, next) {
     if (project) {
       res.render('project', { project });
     } else {
-      res.sendStatus(404);
+      const err = new Error('err');
+      err.status = 404;
+      err.message = 'Oops, page not found. Looks like that route does not exist.';
+      next(err); 
     }
   });
 
