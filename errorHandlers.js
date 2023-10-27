@@ -22,5 +22,5 @@ const handleGlobalError = (err, req, res, next) => {
         res.render('page-not-found', {err});
     }
 };
-  
+// exports the error handlers   
 module.exports = {handle404Error, handleGlobalError}; 
