@@ -3,8 +3,8 @@ const router = express.Router();
 const {projects} = require('./data.json');
 
 router.get('/', (req, res) => {
-    res.locals = projects; 
-    res.render('index'); 
+    res.locals = {projects}; 
+    res.render('index', res.locals); 
 
 }); 
 
