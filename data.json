@@ -1,0 +1,49 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "project_name": "project 1", 
+        "description": "random", 
+        "technologies" : [], 
+        "live_link": "",
+        "github_link": "", 
+        "image_urls": []
+      },
+      {
+        "id": 2,
+        "project_name": "project 2", 
+        "description": "random",
+        "technologies": [],
+        "live_link": "", 
+        "github_link": "",
+        "image_urls": []
+      }, 
+      {
+        "id": 3,
+        "project_name": "project 3", 
+        "description": "random", 
+        "technologies": [], 
+        "live_link": "",
+        "github_link": "", 
+        "image_urls": []
+      }, 
+      {
+        "id": 4,
+        "project_name": "project 4", 
+        "description": "random", 
+        "technologies": [], 
+        "live_link": "",
+        "github_link": "", 
+        "image_urls": []
+      }, 
+      {
+        "id": 5,
+        "project_name": "project 5", 
+        "description": "random", 
+        "technologies": [], 
+        "live_link": "",
+        "github_link": "", 
+        "image_urls": []
+      }
+    ]
+  }
