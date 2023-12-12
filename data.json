@@ -3,7 +3,7 @@
       {
         "id": 1,
         "project_name": "A Random Quote Generator", 
-        "description": "This program displays a randomly selected quote each time the user clicks a button.", 
+        "description": "This basic program displays a randomly selected quote and background color each time the user clicks a button or when the page auto-refreshes.", 
         "technologies" : ["HTML", "CSS", "JavaScript"], 
         "live_link": "https://nriveram.github.io/techdegree-project-1/",
         "github_link": "https://github.com/nriveram/techdegree-project-1", 
@@ -12,7 +12,7 @@
       {
         "id": 2,
         "project_name": "Data Pagination and Filtering", 
-        "description": "This program displays student information of 42 students, including name, email, and picture. It uses navigation buttons to display different pages of students. This program also contains a search bar to help find users quicker.",
+        "description": "This program focuses on using pagination to display fictional student information of 42 students with 9 students per page. Additionally, this program also features a search bar displaying results for the correct match or 'no results' if no students were found.",
         "technologies": ["HTML", "CSS", "JavaScript"],
         "live_link": "https://nriveram.github.io/techdegree-project-2/", 
         "github_link": "https://github.com/nriveram/techdegree-project-2",
@@ -21,7 +21,7 @@
       {
         "id": 3,
         "project_name": "Interactive Form", 
-        "description": "This program adds form validation and interactivity to a fictional Full Stack conference.", 
+        "description": "This program adds form validation and interactivity to a fictional Full Stack conference. Some of the features this project includes are visual indicators, field focuses, and error messaging for required fields.", 
         "technologies": ["HTML", "CSS", "JavaScript"], 
         "live_link": "https://nriveram.github.io/techdegree-project-3/",
         "github_link": "https://github.com/nriveram/techdegree-project-3", 

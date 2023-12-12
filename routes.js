@@ -19,6 +19,7 @@ router.get('/about', (req, res) => {
 // Route to different project id's 
 router.get('/projects/:id', function(req, res, next) {
     const projectId = req.params.id;
+    // uses unary plus to convert to a number
     const project = projects.find( ({ id }) => id === +projectId );
     
     if (project) {

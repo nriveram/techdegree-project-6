@@ -6,7 +6,7 @@ const app = express();
 const path = require('path');
 app.use('/static', express.static(path.join(__dirname, 'public')));
 
-// sets up pug 
+// sets pug as view engine 
 app.set('view engine', 'pug'); 
 
 // imports the route file 
